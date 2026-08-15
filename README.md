@@ -7,10 +7,14 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://avatars.githubusercontent.com/u/313186933?v=4"  />
 </div>
+
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/thndrx1/thndrx1/snake-output/snake.svg" alt="Snake animation" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
