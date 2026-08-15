@@ -1,11 +1,25 @@
 <br clear="both">
 
-<h3 data-importer="text" align="center">hello world, I'm Thunder</h3>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=65&section=header&reversal=false&text=%F0%9F%91%8B%20Hello%20world,%20I'm%20Thunder%20%F0%9F%90%BA&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
+###
 
 ###
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://avatars.githubusercontent.com/u/313186933?v=4"  />
+</div>
+
+###
+<div data-importer="socials" align="center">
+  <a href="https://www.instagram.com/_thndrx/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thndrx/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
