@@ -9,14 +9,9 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=thndrx1.thndrx1&"  />
+</div>
 
 <br clear="both">
 
@@ -100,5 +95,32 @@
 
 <h4 data-importer="text" align="center">• spanish - Native</h4>
 <h4 data-importer="text" align="center">• English - Intermediate (B1)</h4>
+
+###
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=78&section=header&reversal=false&text=Projects%20and%20Contributions&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+</div>
+
+###
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=65&section=header&reversal=false&text=My%20Projects&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 data-importer="text" align="center">Nothing here for now — Working hard on new ideas, stay tuned! 🚀</h4>
+
+###
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=65&section=header&reversal=false&text=Open%20Source%20Contributions&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 data-importer="text" align="left">[Echo Music](https://github.com/EchoMusicApp/Echo-Music) (Discontinued)**<br><br> — Contributed to this project developed by [@iad1tya](https://github.com/iad1tya)<br><br>Note: The repository has been archived due to a copyright takedown.</h4>
 
 ###
