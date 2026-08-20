@@ -43,10 +43,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
@@ -54,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <div data-importer="techs" align="center">
@@ -86,8 +84,6 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
@@ -124,7 +120,7 @@
 
 <br clear="both">
 
-<h4 data-importer="text" align="center">Nothing here for now — Working hard on new ideas, stay tuned! 🚀</h4>
+<h4 data-importer="text" align="center">Nothing here for now, at the moment </h4>
 
 ###
 <div data-importer="border">
