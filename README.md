@@ -112,6 +112,7 @@
 </div>
 
 ###
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=65&section=header&reversal=false&text=My%20Projects&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
@@ -131,9 +132,15 @@
 
 <br clear="both">
 
-<h4 data-importer="text" align="left">[Echo Music](https://github.com/EchoMusicApp/Echo-Music) (Discontinued)**<br><br> — Contributed to this project developed by [@iad1tya](https://github.com/iad1tya)<br><br>Note: The repository has been archived due to a copyright takedown.</h4>
+<h4 data-importer="text" align="left">
+<a href="https://github.com/EchoMusicApp/Echo-Music">Echo Music</a> — PC/KMP Migration Experiment<br><br>
+— Exploring a PC/Desktop port using Kotlin Multiplatform, with the goal of reusing as much of the original codebase as possible.<br><br>
+Originally developed by <a href="https://github.com/iad1tya">@iad1tya</a><br><br>
+Note: This is an experimental fork and is not an official PC version.
+</h4>
 
 ###
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=65&section=header&reversal=false&text=Nothing%20more%20here...%20for%20now!%20:%5D&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
